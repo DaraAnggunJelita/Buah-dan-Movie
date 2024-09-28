@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListBukuDanBuah</string>
+    <string name="st_anggur">Anggur merupakan buah yang diolah dari telur buah berupa perdu merambat yang termasuk ke dalam keluarga Vitaceae.[1] Buah ini biasanya digunakan untuk membuat jus anggur, jelly, minuman anggur, minyak biji anggur dan kismis, atau dimakan langsung.[1] Buah ini juga dikenal karena mengandung banyak senyawa polifenol dan resveratol yang berperan aktif dalam berbagai metabolisme tubuh, serta mampu mencegah terbentuknya sel kanker dan berbagai penyakit lainnya</string>
+    <string name="st_jeruk">Jeruk adalah buah dari spesies citrus dalam famili Rutaceae. Istilah "jeruk" umumnya mengacu pada Citrus × sinensis yang juga disebut jeruk manis dan Citrus aurantium yang disebut jeruk pahit.</string>
+    <string name="st_apel">Apel merupakan jenis buah-buahan, atau buah yang dihasilkan dari pohon apel. Buah apel biasanya berwarna merah kulitnya jika masak dan siap dimakan, tetapi bisa juga kulitnya berwarna hijau atau kuning. Kulit buahnya agak lembek dan daging buahnya keras. Buah apel memiliki beberapa biji di dalamnya.</string>
+    <string name="st_pear">Pir adalah sebutan untuk pohon dari genus Pyrus dan buah yang dihasilkan. Beberapa spesies pohon pir menghasilkan buah yang enak dimakan karena mengandung banyak air, masir dan manis. Pear adalah nama dalam bahasa Inggris.</string>
+    <string name="st_strawberry">Buah stroberi (Fragaria x ananassa Duch.) adalah buah dengan kulit merah
+dengan bintik-bintik putih di bagian kulit yang merupakan bijinya, buah ini
+berwarna merah ketika sudah masak dan hijau ketika masih muda. Buah ini
+termasuk ke dalam keluarga Rosaceae. Stroberi memiliki rasa daging buah asam,
+daging buah lembek, biji berada di luar kulit, warna daging putih kemerahan,
+struktur daging sedikit berserat (halus), ukuran buah kecil, aroma kuat merangsang
+(harum) produksi buah stabil</string>
+</resources>
